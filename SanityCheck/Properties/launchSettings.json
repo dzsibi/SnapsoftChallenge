@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "Sample0": {
+      "commandName": "Project",
+      "commandLineArgs": "--live"
+    },
+    "Sample1": {
+      "commandName": "Project",
+      "commandLineArgs": "--sample 0"
+    },
+    "Live": {
+      "commandName": "Project",
+      "commandLineArgs": "--sample 1"
+    },
+    "Failed": {
+      "commandName": "Project",
+      "commandLineArgs": "--failed"
+    }
+  }
+}
